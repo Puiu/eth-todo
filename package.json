@@ -20,7 +20,7 @@
         "fastify": "^3.24.0",
         "lite-server": "^2.3.0",
         "nodemon": "^1.17.3",
-        "truffle": "5.0.2",
+        "truffle": "5.7.9",
         "truffle-contract": "3.0.6"
     },
     "dependencies": {
